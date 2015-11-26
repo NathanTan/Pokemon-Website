@@ -1,0 +1,190 @@
+/*venusaur.css*/
+
+body {
+background: black;
+}
+
+p {
+margin-left: 50px;
+margin-right: 30px;
+}
+
+#yinyang {
+display: block;
+clear: both;
+float: left;
+
+width: 200px;
+height: 200px;
+margin: 50px;
+}
+
+h1 {
+    color: #00CC00;
+    font-size: 80px;
+    display: inline-block;
+    height: 100px;
+
+}
+
+
+
+h2 {
+color: #E6E6E6;
+text-align: center;
+
+}
+
+
+h3 {
+color: #F8343D;
+text-align: center;
+}
+
+h5 {
+color: white;
+text-align: center;
+position: relative;
+top: -20px;
+
+}
+
+h6 {
+color: white;
+text-align: right;
+}
+
+#grassstartertable {
+color: white;
+border: 2px double green;
+border-width: 10px;
+margin: auto;
+text-align: center;
+width: 800px;
+    display: block;
+    
+}
+
+tr.thead {
+border-bottom-style: solid white;
+}
+
+table, th, td {
+    border-bottom: 1px solid white;
+    font-size: 25px;
+    width: 800px;
+}
+
+#vines {
+position: fixed;
+z-index: -5;
+bottom: -100px;
+width: 1875px;
+}
+
+#charizardlink:link {
+color: white;
+}
+
+#charizardlink:visited {
+color: white;
+}
+
+#charizardlink:hover {
+color: #CF7C00;
+}
+
+#charizardlink:active {
+color: white;
+}
+
+#Blastylink:link {
+color: white;
+}
+
+#Blastylink:visited {
+color: white;
+}
+
+#Blastylink:hover {
+color: #0099FF;
+}
+
+#Blastylink:active {
+color: white;
+}
+
+#starters {
+color: #5CE62E;
+}
+
+
+p {
+color: #8BA5D9;
+font-size: 30px;
+}
+
+p:first-child {
+size: 25px;
+}
+
+/* p:nth-child(5) {
+
+} */
+
+p.linktitle {
+color: #009900;
+font-weight: bold;
+}
+
+#venusaurpixel {
+float: right;
+width: 400px;
+height: 400px;
+}
+
+#clrvenu {
+float: left;
+}
+
+div.venugif {
+position: absolute;
+right: 500px;
+}
+
+#venucry {
+visibility: hidden;
+}
+
+/*
+.sitelinks {
+width: 200px;
+text-align: center;
+border-radius: 10px;
+position: absolute;
+left: 50px;
+}*/
+
+.sitelinks {
+width: 200px;
+
+text-align: center;
+border-radius: 10px;
+position: absolute;
+left: 50px;
+}
+
+#sitelinksvenu{
+background-color: #6DCD6D;
+border: #009900 solid 5px;
+}
+
+#genTitle{
+    color: #009900;
+}
+
+
+
+#blankv {
+color: #6DCD6D;
+}
